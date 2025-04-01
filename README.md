@@ -46,7 +46,3 @@ Once the server is running, you can test it in one of the following ways:
 - You can customize the domain handling logic in the Go code.
 
 ---
-
-## 📌 License
-
-MIT License
